@@ -1,0 +1,4 @@
+.express-svelte
+vibechek.db
+node_modules
+.env
